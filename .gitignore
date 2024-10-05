@@ -1,0 +1,7 @@
+frontend/node_modules/
+
+# Ignorar vendor en backend (Laravel)
+backend/vendor/
+
+# Ignorar archivos específicos de sistemas operativos
+.DS_Store
